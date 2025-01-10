@@ -12,6 +12,13 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        verdana: ['var(--font-verdana)']
+      },
+      screens: {
+        x: '500px',
+        xi: '400px'
+      }
     },
   },
   plugins: [],
